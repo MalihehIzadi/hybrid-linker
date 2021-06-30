@@ -1,7 +1,7 @@
 # Hybrid Linker
 This epositry contains the source code adn datasets for our study titled as 
-"<strong>Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data</strong>" 
-(Accepted at the <i>IEEE International Working Conference on Source Code Analysis and Manipulation)</i>.
+"<strong>Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data</strong>",
+accepted at the <i>IEEE International Working Conference on Source Code Analysis and Manipulation (ICSME 2021)</i>.
 
 An issue report documents the discussions around required changes in issue-tracking systems, 
 while a commit contains the change itself in the version control systems.
