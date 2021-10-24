@@ -27,5 +27,4 @@ It also outperforms FRLink and DeepLink
 by 31.3%, and 41.3%, regarding the F-measure.
 
 You can use the data by accessing Zenodo link: https://doi.org/10.5281/zenodo.5067833
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WIIvoYicJ9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The Link to YouTube Video for paper presentation: https://www.youtube.com/watch?v=WIIvoYicJ9k&ab_channel=Pooyarostamimazrae
