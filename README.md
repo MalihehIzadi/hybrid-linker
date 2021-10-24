@@ -1,5 +1,5 @@
 # Hybrid Linker
-This epositry contains the source code adn datasets for our study titled as 
+This repositry contains the source code adn datasets for our study titled as 
 "<strong>Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data</strong>",
 accepted at the <i>IEEE International Working Conference on Source Code Analysis and Manipulation (ICSME 2021)</i>.
 
@@ -27,3 +27,5 @@ It also outperforms FRLink and DeepLink
 by 31.3%, and 41.3%, regarding the F-measure.
 
 You can use the data by accessing Zenodo link: https://doi.org/10.5281/zenodo.5067833
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WIIvoYicJ9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
