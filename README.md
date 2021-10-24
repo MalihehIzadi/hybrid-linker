@@ -25,3 +25,5 @@ Hybrid-Linker achieves 90.1%, 87.8%, and 88.9%
 based on recall, precision, and F-measure, respectively. 
 It also outperforms FRLink and DeepLink
 by 31.3%, and 41.3%, regarding the F-measure.
+
+You can use the data by accessing Zenodo link: https://doi.org/10.5281/zenodo.5067833
