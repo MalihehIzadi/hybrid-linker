@@ -27,6 +27,7 @@ It also outperforms FRLink and DeepLink
 by 31.3%, and 41.3%, regarding the F-measure.
 
 You can use the data by accessing Zenodo link: https://doi.org/10.5281/zenodo.5067833 </br>
+You can find the paper here: https://doi.ieeecomputersociety.org/10.1109/ICSME52107.2021.00030 </br>
 The Link to YouTube Video for paper presentation: https://www.youtube.com/watch?v=WIIvoYicJ9k&ab_channel=Pooyarostamimazrae </br>
 
 [![Hybrid-Linker](https://img.youtube.com/vi/WIIvoYicJ9k/0.jpg)](https://www.youtube.com/watch?v=WIIvoYicJ9k&ab_channel=Pooyarostamimazrae)
