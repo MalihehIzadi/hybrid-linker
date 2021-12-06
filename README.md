@@ -32,15 +32,3 @@ The Link to YouTube Video for paper presentation: https://www.youtube.com/watch?
 
 [![Hybrid-Linker](https://img.youtube.com/vi/WIIvoYicJ9k/0.jpg)](https://www.youtube.com/watch?v=WIIvoYicJ9k&ab_channel=Pooyarostamimazrae)
 
-</br>
-To cite this article, please use the following citation:
-```
-@inproceedings{mazrae2021automated,
-  title={Automated Recovery of Issue-Commit Links Leveraging Both Textual and Non-textual Data},
-  author={Mazrae, Pooya Rostami and Izadi, Maliheh and Heydarnoori, Abbas},
-  booktitle={2021 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
-  pages={263--273},
-  organization={IEEE}
-}
-```
-
